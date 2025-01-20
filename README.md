@@ -1,2 +1,0 @@
-# FinTrack
-FWD project
